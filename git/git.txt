@@ -1,0 +1,258 @@
+    1  ls
+    2  cd c:
+    3  cd lasya
+    4  cd Lasya
+    5  ls
+    6  cd ,,
+    7  cd D:
+    8  cd lasya
+    9  cd git
+   10  ls
+   11  mkdir training
+   12  git init
+   13  git status
+   14  cd training
+   15  ls
+   16  ls -ls
+   17  git init
+   18  ls -;a
+   19  ls -la
+   20  git status
+   21  cd ..
+   22  pwd
+   23  git init training
+   24  cd training
+   25  ls -lrt
+   26  touch index.html
+   27  git status
+   28  git add.
+   29  git add .
+   30  git status
+   31  git commit -m "first"
+   32  git config --global user.email "lasyakanchimireddy6@gmail.com"
+   33  git config --global user.name "lasyahari6"
+   34  git commit -m "first"
+   35  git log
+   36  mkdir training
+   37  cd training
+   38  rm tarining
+   39  rm training
+   40  git status
+   41  cd ..
+   42  git status
+   43  echo "<html>                    </html>' >> index.html
+   44  echo "<html>                    </html>" >> index.html
+   45  git status
+   46  git commit
+   47  git add .
+   48  git status
+   49  git commit
+   50  cd d
+   51  cd lasya/git/training
+   52  ls
+   53  git rm index.html
+   54  ls -lrt
+   55  git ls-filrs --stages
+   56  git ls-files --stages
+   57  git touch a.txt
+   58  git --help
+   59  git init a.txt
+   60  ls
+   61  git rm a.txt
+   62  git rm a.txt/
+   63  git rm a.txt
+   64  ls
+   65  git ls-files --stage
+   66  git status
+   67  git add .
+   68  git commit -m "3"
+   69  git ls-files --stage
+   70  git log
+   71  ls
+   72  git status
+   73  git add .
+   74  notepad a.txt
+   75  git rm --cached a.txt
+   76  clear
+   77  cd ,.
+   78  cd ..
+   79  cd training
+   80  git remote add origin https://github.com/lasyahari6/5216953_Kanchimireddy-Lasya.git
+   81  git remote -v
+   82  git push origin master
+   83  git push origin master
+   84  git status
+   85  git add .
+   86  git status
+   87  cat index.html
+   88  git push
+   89  mkdir Train
+   90  cd Train
+   91  git init index.html
+   92  git init index1.html
+   93  echo "<html> </html>" >> indesx1.html
+   94  ls
+   95  git add .
+   96  git commit -m "Try"
+   97  git add index1.html
+   98  ls
+   99  git push
+  100  git push --set-upstream origin master
+  101  git status
+  102  cd ..
+  103  ls
+  104  git status
+  105  ls -lrt
+  106  ssh-keygen
+  107  cd d:/lasya/git
+  108  git git status
+  109  git status
+  110  mkdir hello
+  111  git init
+  112  cd hello
+  113  git status
+  114  clear
+  115  git status
+  116  cd dev
+  117  cd  dev/
+  118  cd ,..
+  119  cd ..
+  120  cd dev
+  121  cd lgit
+  122  mkdir lgit
+  123  cd lgit
+  124  git status
+  125  git add.
+  126  git add .
+  127  cd ..
+  128  cd ..
+  129  git status
+  130  git add .
+  131  git status
+  132  git commit 
+  133  git commit 
+  134  git commit .
+  135  cd training
+  136  cd ..
+  137  cd 5216953_Kanchimireddy-Lasya
+  138  git  remote add origin https://github.com/lasyahari6/5216953_Kanchimireddy-Lasya.git
+  139  git remote -v
+  140  git push origin master
+  141  git push origin master
+  142  git add .
+  143  git commit -m "initial commit"
+  144  cd .
+  145  cd ...
+  146  cd .
+  147  cd ..
+  148  cd ..
+  149  cd ..
+  150  cd lasya/5216953_Kanchimireddy-Lasya
+  151  ls -lrt
+  152  git status
+  153  git init
+  154  clear
+  155  git remote add origin https://github.com/lasyahari6/5216953_Kanchimireddy-Lasya.git
+  156  git remote -v
+  157  git push origin master
+  158  git init
+  159  git push
+  160  git init index.html
+  161  git status
+  162  git add .
+  163  echo "<html>   </html>" >> index.html
+  164  git config --global user.email "lasyakanchimireddy6@gmail.com"
+  165  git config --global user.name "lasyahari6"
+  166  git config --list
+  167  git init
+  168  git clone https://github.com/lasyahari6/5216953_Kanchimireddy-Lasya.git
+  169  git status
+  170  git add .
+  171  mkdir hello
+  172  cd hello
+  173  git init
+  174  echo "hello" > h.txt
+  175  git add h.txt
+  176  git commit -m "Initial"
+  177  git remote add oigin https://github.com/lasyahari6/5216953_Kanchimireddy-Lasya.git
+  178  git remote -v
+  179  git branch -M main
+  180  git push -u oigin main
+  181  git push -u origin main
+  182  git pull origin main
+  183  git pull oigin main
+  184  git remote add origin https://github.com/lasyahari6/5216953_Kanchimireddy-Lasya.git
+  185  git remote -v
+  186  git push -u origin main
+  187  git pull origin main --rebase
+  188  git push -u origin main
+  189  cd ..
+  190  ls
+  191  cd 5216953_Kanchimireddy-Lasya/
+  192  mkdir SDLC
+  193  mkdir SDLC
+  194  cd SDLC
+  195  cp C:\Users\Dell\Downloads\WhatsApp Image 2025-07-28 at 7.13.42 AM.jpeg
+  196  cp C:\Users\Dell\Downloads\WhatsApp Image 2025-07-28 at 7.13.42 AM.jpeg .
+  197   cp C:\Users\Dell\Downloads\agile.jpeg
+  198  cp --help
+  199   cp C:\Users\Dell\Downloads\agile.jpeg .
+  200   cp C:\Users\Dell\Downloads\agile.jpeg SDLC/
+  201  cp /c/Users/Dell/Downloads/agile.jpeg SDLC/
+  202  cp /c/Users/Dell/Downloads/agile.jpeg .
+  203  ls
+  204  mv agile.jpg AgileForBeginnersCertificate
+  205  mv agile.jpeg AgileForBeginnersCertificate.jpeg
+  206  ls
+  207  git push -u origin main
+  208  git push -u origin maingit remote -v
+  209  git remote -v
+  210  git push -u origin main
+  211  git commit -m "Added a SDLC certificate"
+  212  git push -u origin main
+  213  git pull origin main --rebase
+  214  git push -u origin main
+  215  git status
+  216  ls
+  217  git add .
+  218  git add AgileForBeginnersCertificate.jpeg
+  219  git rm --cached SDLC
+  220  cd ..
+  221  git rm --cached SDLC
+  222  rm -rf .git/modiles/SDLC
+  223  rm -rf .git/modules/SDLC
+  224  rm -rf SDLC
+  225  ls
+  226  mkdir SDLC
+  227  agilecp /c/Users/Dell/Downloads/AgileForBeginnersCertificate.jpeg SDLC/
+  228  cp /c/Users/Dell/Downloads/agile.jpeg SDLC/
+  229  mv SDLC/agile.jpeg SDLC/AgileForBeginnersCertification
+  230  git add SDLC/
+  231  git commit -m "Added an image to SDLC" 
+  232  git push origin main
+  233  mv SDLC/agile.jpeg SDLC/AgileForBeginnersCertification.jpeg
+  234  mv SDLC/AgileForBeginnersCertification.jpeg SDLC/AgileForBeginnersCertification.jpeg
+  235  mv SDLC/AgileForBeginnersCertification SDLC/AgileForBeginnersCertification.jpeg
+  236  git add SDLC/
+  237  git commit -m "Added an image to SDLC" 
+  238  git push origin main
+  239  notepad readme.rm
+  240  notepad README.md
+  241  git push origin main
+  242  git add README.rm
+  243  git add README.md
+  244  git status
+  245  git push origin main
+  246  git commit -m  "Submitted"
+  247  git push origin main
+  248  notepad README.md
+  249  git add README.md
+  250  git commit -m  "Submitted"
+  251  git push origin main
+  252  notepad README.md
+  253  git commit -m  "Submitted"
+  254  git add README.md
+  255  git commit -m  "Submitted"
+  256  git push origin main
+  257  history
+  258  history > git.txt
