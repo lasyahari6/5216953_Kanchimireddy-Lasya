@@ -256,3 +256,46 @@
   256  git push origin main
   257  history
   258  history > git.txt
+  259  history > /git/git.txt
+  260  ls
+  261  mkdir git
+  262  git init
+  263  git add git.txt/git
+  264  mv git.txt git/
+  265  git add git/git.txt
+  266  git commit -m "Git Commands and added an image"
+  267  git push origin main
+  268  rm h.txt
+  269  rm -d h.txt
+  270  ls
+  271  ls
+  272  mkdir Git
+  273  mv \C\Users\Dell\Downloads\GitLeaning.jpeg \gitlearning.
+  274  mv \C\Users\Dell\Downloads\GitLeaning.jpeg \gitlearning.
+  275  cp \C\Users\Dell\Downloads\GitLeaning.jpeg git/
+  276  cp \C\Users\Dell\Downloads\GitLeaning.jpeg git/
+  277  cp /C/Users/Dell/Downloads/GitLeaning.jpeg git/
+  278  git add git/
+  279  git commit -m "Added an image"
+  280  ls
+  281  git remote -v
+  282  git push origin main
+  283  git push origin main --rebase
+  284  git status
+  285  git push
+  286  git pull origin main --rebase
+  287  git remote -v
+  288  git commit -m "Addes an image"
+  289  git add h.txt
+  290  git commit -m "Deleted h.txt and added an image"
+  291  git push
+  292  git commit -a -m "Updated files including image and deleted h.txt"
+  293  git status
+  294  git pull --rebase
+  295  git push 
+  296  notepad README.md
+  297  git add README.md
+  298  git commit -m "submitted"
+  299  git push
+  300  ls
+  301  history > git/git.txt
